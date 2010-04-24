@@ -8,3 +8,4 @@ This major change will bring a lot of benefits as:
 =Serialize project files as XML= 
 Currently Shaderlink uses Python binary serialization. By doing so it's easy and fast to save/load but user cannot understand content very easily. 
 
+=Add add add nodes...= 
